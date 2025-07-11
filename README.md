@@ -42,8 +42,7 @@ This project presents a dynamic and visually compelling **Spotify Dashboard** bu
 ## Tools Used
 
 - **Power BI** for data visualization  
-- **Python / Excel** (optional, for preprocessing)  
-- **Spotify Dataset** (cleaned and structured)
+- **Python / Excel** (for preprocessing) 
 
 ---
 
