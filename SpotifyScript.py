@@ -45,7 +45,7 @@ client_secret = 'YOUR_CLIENT_SECRET'
 access_token = get_spotify_token(client_id, client_secret)
 
 # Read your DataFrame (replace 'your_file.csv' with the path to your CSV file)
-df_spotify = pd.read_csv("C:/Users/kashishpreet kaur/Desktop/python_jupyter/Project 2nd year/Most Streamed Spotify Songs 2024.csv", encoding='ISO-8859-1')
+df_spotify = pd.read_csv("path_to_your_file/Most Streamed Spotify Songs 2024.csv", encoding='ISO-8859-1')
 
 # Loop through each row to get track details and add to DataFrame
 for i, row in df_spotify.iterrows():
